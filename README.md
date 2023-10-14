@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Anna Yuki or HikariChan Jr
+- 👋 Hi, I’m Nadia Yuki 
 - 👀 I’m interested in  marketing and Arts
-- 🌱 I’m currently learning Unity and Marketing
-- 💞️ I’m looking to collaborate on Youtube, Twitter and others
-- 📫 How to reach me : nadiabmp@gmail.com / Twitter HikariChan Jr
+- 🌱 I’m currently learning Unity and others
+- 📫 How to reach me : nadiabmp@gmail.com 
 
 <!---
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
